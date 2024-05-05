@@ -1,1 +1,1 @@
-Simple 1st Python Project Games. Hello World
+Python Project Games. Hello World
